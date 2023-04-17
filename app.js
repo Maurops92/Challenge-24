@@ -1,4 +1,5 @@
-// Realice un programa donde un personaje abra 10 cofres, los cofres pueden contener: 10 de oro, 2 pociones de vida, nada.
+// Realice un programa donde un personaje abra 10 cofres, los cofres 
+// pueden contener: 10 de oro, 2 pociones de vida, nada.
 
 // a. Indique el oro final recolectado
 
